@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMongoAPI", "BookMongoAPI\BookMongoAPI.csproj", "{97CACF3A-457A-471E-A7A7-6476EF67608B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CACF3A-457A-471E-A7A7-6476EF67608B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CACF3A-457A-471E-A7A7-6476EF67608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CACF3A-457A-471E-A7A7-6476EF67608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CACF3A-457A-471E-A7A7-6476EF67608B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12404D26-35DE-42D5-B504-737377C5CDD6}
+	EndGlobalSection
+EndGlobal
